@@ -73,7 +73,6 @@ jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.3
 keras==2.12.0
 libclang==16.0.0
-llvmlite==0.39.1
 Markdown==3.4.3
 MarkupSafe==2.1.1
 matplotlib-inline==0.1.6
