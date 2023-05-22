@@ -22,7 +22,7 @@ import { InfoTooltip } from "./InfoTooltip.js";
 import { text } from "d3";
 
 
-const localDevURL = "http://cluster-explainer.herokuapp.com/";
+const localDevURL = "https://textcluster-explainer.herokuapp.com/";
 
 const DEFAULT_PROMPT =
   "What is the common theme between the selected sentences?";

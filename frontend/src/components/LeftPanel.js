@@ -32,7 +32,7 @@ import ag_news from '../datasets/ag_news.json';
 
 library.add(faCheckSquare, faSquare);
 
-const localDevURL = "http://cluster-explainer.herokuapp.com/";
+const localDevURL = "https://textcluster-explainer.herokuapp.com/";
 
 const LoadDataCircle = ({ loadingData }) => {
   if (!loadingData) {
